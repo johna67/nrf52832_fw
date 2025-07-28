@@ -1,0 +1,2 @@
+"nrf":"/Users/johnacogan/Documents/GitHub/nrf52832_fw/nrf":"/Users/johnacogan/Documents/GitHub/nrf52832_fw/nrf/sysbuild"
+"mcuboot":"/Users/johnacogan/Documents/GitHub/nrf52832_fw/bootloader/mcuboot":"/Users/johnacogan/Documents/GitHub/nrf52832_fw/bootloader/mcuboot/boot/zephyr/sysbuild"

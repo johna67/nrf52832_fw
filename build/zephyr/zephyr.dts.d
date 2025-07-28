@@ -1,0 +1,28 @@
+empty_file.o: \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/misc/empty_file.c \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/boards/nordic/nrf52dk/nrf52dk_nrf52832.dts \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/dts/arm/nordic/nrf52832_qfaa.dtsi \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/dts/common/mem.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/dts/arm/nordic/nrf52832.dtsi \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/dts/arm/armv7-m.dtsi \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/dts/common/skeleton.dtsi \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/dts/common/nordic/nrf_common.dtsi \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/dt-bindings/adc/adc.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/dt-bindings/dt-util.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/sys/util_macro.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/sys/util_internal.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/sys/util_loops.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/sys/util_listify.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/sys/util_internal_is_eq.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/sys/util_internal_util_inc.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/sys/util_internal_util_dec.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/sys/util_internal_util_x2.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/dt-bindings/adc/nrf-adc.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/dt-bindings/gpio/gpio.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/dt-bindings/i2c/i2c.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/dt-bindings/input/input-event-codes.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/dt-bindings/pinctrl/nrf-pinctrl.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/include/zephyr/dt-bindings/pwm/pwm.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/dts/common/freq.h \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/dts/arm/nordic/override.dtsi \
+ /Users/johnacogan/Documents/GitHub/nrf52832_fw/zephyr/boards/nordic/nrf52dk/nrf52dk_nrf52832-pinctrl.dtsi
